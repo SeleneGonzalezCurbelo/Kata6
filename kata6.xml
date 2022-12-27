@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phonetic>
+    <audio>https://api.dictionaryapi.dev/media/pronunciations/en/hello-uk.mp3</audio>
+    <license name="BY 3.0 US" url="https://creativecommons.org/licenses/by/3.0/us"/>
+</phonetic>
