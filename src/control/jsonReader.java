@@ -1,4 +1,4 @@
-package model.control;
+package control;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;

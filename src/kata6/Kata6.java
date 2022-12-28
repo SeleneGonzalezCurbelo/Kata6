@@ -8,8 +8,8 @@ import model.Meaning;
 import model.Meanings;
 import model.Phonetic;
 import model.Phonetics;
-import model.control.XMLWriter;
-import model.control.jsonReader;
+import control.XMLWriter;
+import control.jsonReader;
 
 public class Kata6 {
 
